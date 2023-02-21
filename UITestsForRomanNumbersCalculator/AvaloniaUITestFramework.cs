@@ -6,7 +6,7 @@ using Xunit.Sdk;
 [assembly: TestFramework("Test.AvaloniaUiTestFramework", "Test")]
 [assembly: CollectionBehavior(CollectionBehavior.CollectionPerAssembly, DisableTestParallelization = false, MaxParallelThreads = 1)]
 
-namespace Test
+namespace UITestsForRomanNumbersCalculator
 {
         public class AvaloniaUiTestFramework : XunitTestFramework
         {

@@ -6,7 +6,7 @@ using Avalonia.Headless;
 using RomanNumberCalculator.Views;
 using RomanNumberCalculator;
 
-namespace Test
+namespace UITestsForRomanNumbersCalculator
 {
         public static class AvaloniaApp
         {

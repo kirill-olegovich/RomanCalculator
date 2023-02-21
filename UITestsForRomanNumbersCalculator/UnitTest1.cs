@@ -1,7 +1,7 @@
 using Avalonia.Controls;
 using Avalonia.VisualTree;
 
-namespace Test
+namespace UITestsForRomanNumbersCalculator
 {
     public class UnitTest1
     {
